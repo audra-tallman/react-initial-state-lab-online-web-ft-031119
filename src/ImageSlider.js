@@ -1,3 +1,13 @@
-import React, { Component } from 'react';
+import React from 'react';
 
-export default class Matrix extends Component {
+class ImageSlider extends React.Component {
+  constructor(props) {
+    super()
+      this.state = {
+        :props.
+      }  
+     }
+     render () {
+       const message
+     }
+  }
